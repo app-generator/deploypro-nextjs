@@ -1,6 +1,6 @@
-# [DeployPRO](https://deploypro.dev/) `Next Sample` 
+# [DeployPRO](https://deploypro.dev/) `NextJS Sample` 
 
-Minimal `Next Sample` provided by [DeployPRO](https://deploypro.dev/) service for testing.
+Minimal `NextJS Sample` provided by [DeployPRO](https://deploypro.dev/) service for testing.
 
 <br />
 
@@ -17,11 +17,11 @@ At this point, the app runs at `localhost:5000`
 
 ```bash
 $ yarn 
-$ yarn start  # development
-$ yarn build  # production
+$ yarn dev   # development
+$ yarn build # production
 ```
 
 <br />
 
 ---
-Vue Sample - Open-source sample provided by [DeployPRO](https://deploypro.dev/)
+NextJS Sample - Open-source sample provided by [DeployPRO](https://deploypro.dev/)
