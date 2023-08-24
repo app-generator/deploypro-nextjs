@@ -1,4 +1,4 @@
-# [DeployPRO](https://deploypro.dev/) `NextJS Sample` 
+# [DeployPRO NextJS](https://www.docs.deploypro.dev/samples/nextjs) `Free Sample`
 
 Minimal `NextJS Sample` provided by [DeployPRO](https://deploypro.dev/) service for testing.
 
@@ -24,4 +24,4 @@ $ yarn build # production
 <br />
 
 ---
-NextJS Sample - Open-source sample provided by [DeployPRO](https://deploypro.dev/)
+[NextJS Starter](https://www.docs.deploypro.dev/samples/nextjs) - Open-source sample provided by [DeployPRO](https://deploypro.dev/)
